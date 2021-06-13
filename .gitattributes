@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+C:/Users/Craig/Desktop/Submissions/Module[[:space:]]8[[:space:]]Challenge/Movies-ETL/Resources/ratings.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Craig/Desktop/Submissions/Module[[:space:]]8[[:space:]]Challenge/Movies-ETL/Resources/credits.csv filter=lfs diff=lfs merge=lfs -text
